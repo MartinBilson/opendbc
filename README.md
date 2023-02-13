@@ -1,7 +1,7 @@
 opendbc
 ======
 
-The project to democratize access to the decoder ring of your car.
+This is an owesome project to democratize access to the decoder ring of your car.
 
 
 
